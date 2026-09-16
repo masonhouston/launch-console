@@ -7,3 +7,6 @@ I am most excited about building the actual startup program itself.
 | Tomato | Fruit |
 | ---- | ---- |
 | Spinach  | Vegetable |
+
+## An example of a github badge
+![status](https://img.shields.io/badge/status-building-blue)
