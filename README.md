@@ -6,5 +6,4 @@ I am most excited about building the actual startup program itself.
 ## An example of a markdown table: 
 | Tomato | Fruit |
 | ---- | ---- |
-| Spinach  | Vegtable |
-| ...  | ... |
+| Spinach  | Vegetable |
